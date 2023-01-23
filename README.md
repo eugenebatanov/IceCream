@@ -1,5 +1,5 @@
-Посилання на макет:
-https://www.figma.com/file/g8Av5GC8AqLyf4wqJblnJn/ice-cream?node-id=11708%3A12378&t=vUULsnSW4BCSjx1d-0
+<!-- Посилання на макет:
+https://www.figma.com/file/g8Av5GC8AqLyf4wqJblnJn/ice-cream?node-id=11708%3A12378&t=vUULsnSW4BCSjx1d-0 -->
 
 # Parcel template
 
